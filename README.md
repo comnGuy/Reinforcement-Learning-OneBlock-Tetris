@@ -1,3 +1,3 @@
 # Reinforcement-Learning-OneBlock-Tetris
 
-First readme!
+![Score Process](tetris_score_process.png?raw=true "Score Process")
