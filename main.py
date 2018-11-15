@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-# TODO evtl. mehr reinklatsch, Beispiel waren 4
+# Author Bernhard Preisler
 
 from tetris import Tetris
 from agent import Agent
